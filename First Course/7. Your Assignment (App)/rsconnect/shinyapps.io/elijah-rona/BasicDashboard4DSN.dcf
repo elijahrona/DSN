@@ -1,0 +1,13 @@
+name: BasicDashboard4DSN
+title: BasicDashboard4DSN
+username:
+account: elijah-rona
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8152597
+bundleId: 6782507
+url: https://elijah-rona.shinyapps.io/BasicDashboard4DSN/
+when: 1674858233.29756
+lastSyncTime: 1674858233.29756
+asMultiple: FALSE
+asStatic: FALSE
